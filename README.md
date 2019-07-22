@@ -14,14 +14,14 @@ Exposes following **ports** for inbound and outbound interactions in form of int
 
 ### Application 
 
-**inbound adapter**
+_inbound **adapter**_
 
 [PaymentController](./src/main/java/com/hexagonal/application/adapter/PaymentController.java)
  
 
 ### Infrastructure 
 
-**outbound adapter**
+_outbound **adapter**_
 
 [PaymentRepositoryImpl](./src/main/java/com/hexagonal/infrastructure/adapter/PaymentRepositoryImpl.java)
 
