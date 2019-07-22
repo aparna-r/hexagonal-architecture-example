@@ -25,4 +25,4 @@ Exposes following **ports** for inbound and outbound interactions in form of int
 
 [PaymentRepositoryImpl](./src/main/java/com.hexagonal/infrastructure/adapter/PaymentRepositoryImpl.java)
 
-![alt text][class_diagram.png]
+![alt text](./class_diagram.png)
